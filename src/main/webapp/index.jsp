@@ -59,6 +59,7 @@
                     <div class="w3-container w3-sand w3-leftbar">
                         <p><i>Make it as simple as possible, but not simpler.</i>
                             <br>Albert Einstein
+                            <br>Karolina Kacprzycka
                         </p>
                     </div>                  
                     <hr>
